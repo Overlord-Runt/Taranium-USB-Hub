@@ -10,7 +10,7 @@ created_at: "2024-03-20"
 A USB hub thats super cool and stuff.\
 its gonna have 2 usbA and 2 usbC
 
-Total time spent: 4 hours
+Total time spent: 5 hours
 
 ## 24th July
 
@@ -75,7 +75,7 @@ I have remade the gerbers like 3 times
 
 wtf is wrong :sob:
 
-WAIT OKAZY I FOUND SOMTING AFTR #) MINS OF PAIN
+WAIT OKAZY I FOUND SOMTING AFTR 30 MINS OF PAIN
 
 so kicad doesnt do proper jlc style cpl and bom files so you need to import into google sheets and do it manually
 
@@ -85,5 +85,5 @@ I had to change the usb port I use though because the original one is out of sto
 
 Other than that its all done
 
-Time Spent: 2 hours
+Time Spent: 3 hours
 
