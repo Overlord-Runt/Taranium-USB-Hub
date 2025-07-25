@@ -18,7 +18,11 @@ Okay gonna speedrun a usb hub since the one i got from onboard doesnt work.
 
 Step 1 pcb.
 
+![dsfsd](assets/5.png)
+
 first i need to make a symbol for the chip thingy because kicad doesnt have one.
+
+![dsfsd](assets/6.png)
 
 Next I need to do parts research for the ports im gonna get.
 
@@ -34,6 +38,8 @@ okay now with the schematic done its time for pcb. for this design I am thinking
 
 anyways I placed all the parts to where they would roughly go, and made all the connections. the power lines use 0.5mm traces so they can handle more amps and yeah qr code goes to a non-existant website.
 
+![dsdf](assets/4.png)
+
 Case time :D
 
 For the case I started with a box around the pcb and then added 4 corner thingies for the screw holes because I thought it looked cool.
@@ -44,11 +50,15 @@ Time spent: 2 hours
 
 ## 25th of july
 
+![dsfs](assets/1.png)
+
 Okay I finished up on the case. I removed 2 of the corner thingies because I realised that it would get in the way of plugging it in. which isnt good. 
 
 so now its only 2 screws holding it in on one side but from previous experience, That should probably be more than enough.
 
 II also added my logo to the hub
+
+![sfdsf](assets/2.png)
 
 looks nice
 
