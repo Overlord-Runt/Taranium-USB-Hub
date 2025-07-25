@@ -1,0 +1,13 @@
+Item,Qty,Price(USD),Source,Notes
+PCB,5,$5,JLCPCB,
+PCBa+shipping,5,$40,JLCPCB,
+USBa Male,1,,https://jlcpcb.com/partdetail/Korean_HropartsElec-U_G_O4DD_W1/C98125,
+USBa Female,2,,,
+USBc Female,2,,,
+10µf Capacitor,7,,https://jlcpcb.com/partdetail/20411-CL10A106KP8NNNC/C19702,
+USB Hub Chip,1,,https://lcsc.com/product-detail/USB-ICs_CoreChips-SL2-1A_C192893.html,
+3d printed case,1,,3d printer,
+M3W5L6 Heatsets,7,1.7,https://www.aliexpress.com/item/1005003582355741.html?spm=a2g0o.order_list.order_list_main.50.21221802eFqViq,
+M3 6mm screws,3,1.52,https://www.aliexpress.com/item/32810852732.html?spm=a2g0o.order_list.order_list_main.28.21221802eFqViq,
+M3 12mm screws,4,2.05,https://www.aliexpress.com/item/32810852732.html?spm=a2g0o.order_list.order_list_main.28.21221802eFqViq,
+Total,,$50,,
