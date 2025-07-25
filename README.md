@@ -9,10 +9,27 @@ A USBa Hub designed by @Overlord-Runt // Taran The Idiot
 This is a 4 port usb hub with 2 USBa ports and 2 USBc ports. It has a pair of A and C on each side of the board, allowing it to be reversable.
 
 ## PCB
+### Schematic
+![sdfsd](assets/5.png)
 
+The schematic uses a custom made symbol for the ic and is wired up to normal datasheet requirements. It boasts the ability to have 2 USBa and 2 USBc ports.
+
+### PCB
+![dsfd](assets/4.png)
+
+Here you can see the pcb design files for this project.
+
+The power lines use 0.5mm traces due to the extra current.
 
 ## CAD
+![dsfd](assets/gh.png)
 
+This is the case for the USB Hub.\
+It has just 2 parts and has a relatively simplistic design that still looks nice and detailed.\
+It only uses 2 screws because In my experince that is more than enough and it also has no space to add any more.
+
+
+It is recommended to print in PETG due to the amount of heat that the hub gives off.
 
 ## BOM
 
