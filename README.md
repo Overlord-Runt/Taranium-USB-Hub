@@ -15,14 +15,14 @@ This is a 4 port usb hub with 2 USBa ports and 2 USBc ports. It has a pair of A 
 The schematic uses a custom made symbol for the ic and is wired up to normal datasheet requirements. It boasts the ability to have 2 USBa and 2 USBc ports.
 
 ### PCB
-![dsfd](assets/4.png)
+![dsfd](assets/8.png)
 
 Here you can see the pcb design files for this project.
 
 The power lines use 0.5mm traces due to the extra current.
 
 ## CAD
-![dsfd](assets/gh.png)
+![dsfd](assets/7.png)
 
 This is the case for the USB Hub.\
 It has just 2 parts and has a relatively simplistic design that still looks nice and detailed.\
