@@ -10,7 +10,7 @@ created_at: "2024-03-20"
 A USB hub thats super cool and stuff.\
 its gonna have 2 usbA and 2 usbC
 
-Total time spent: 5 hours
+Total time spent: 7 hours
 
 ## 24th July
 
@@ -86,4 +86,10 @@ I had to change the usb port I use though because the original one is out of sto
 Other than that its all done
 
 Time Spent: 3 hours
+
+## 26/27th July
+
+Its during night so im merging the days
+
+anyways
 
