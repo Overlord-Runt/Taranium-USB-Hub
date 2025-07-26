@@ -91,5 +91,15 @@ Time Spent: 3 hours
 
 Its during night so im merging the days
 
-anyways
+anyways i was told to round the corners on my case and add differencial routing. which i did. it was fun to learn tbh.
+
+![dfds](assets/8.png)
+
+pretty easy to implement as well. just make your line wibbly wobbly until the track lengths of the 2 traces match. and dont do any 90 degree stuffs.
+
+also for the corner rounding. corner rounding bad. i did chamfered corners instead and put a .5mm fillet because it is still a rounded corner and it count. but is barely noticeable. so win win
+
+![fdsfd](assets/7.png)
+
+Hours spent: 2
 
