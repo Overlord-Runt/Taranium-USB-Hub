@@ -1,7 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,Sim.Device,Sim.Pins
-"C1, C2, C3, C4, C5, C6, C7",7,C_Small,C_0201_0603Metric,,,,smt,"Unpolarized capacitor, small symbol",,
-D1,1,D_Small,D_SOD-323,,,,smt,"Diode, small symbol",D,1=K 2=A
-J1,1,USB_A,USB_A_Molex_48037-2200_Horizontal,,,,smt,USB Type A connector,,
-"J2, J3",2,USB_A,USB_A_Connfly_DS1095,,,,tht,USB Type A connector,,
-"J4, J5",2,USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_HCTL_HC-TYPE-C-16P-01A,,,,smt,USB 2.0-only 16P Type-C Receptacle connector,,
-U1,1,~,SO-16_3.9x9.9mm_P1.27mm,,,,smt,,,
