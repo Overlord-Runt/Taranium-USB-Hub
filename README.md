@@ -2,7 +2,7 @@
 
 A USBa Hub designed by @Overlord-Runt // Taran The Idiot
 
-![fsds](assets/gh.png)
+![fsds](assets/gh2.png)
 
 ## The Taranium USB Hub
 
